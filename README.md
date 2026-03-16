@@ -1,6 +1,6 @@
 ## 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single+Ink&weight=300&size=19&duration=2000&pause=400&color=F70000&width=435&separator=%3C&lines=HI+I'M+ANN+%3A)%3Cwhile+noSuccess%3A%3Ctry+again()%3Cif+dead%3A%3Cbreak;" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student;CSE+Undergraduate;Building+Cool+Projects)](https://git.io/typing-svg)
 <!--
 **Ann-1mj/Ann-1mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
