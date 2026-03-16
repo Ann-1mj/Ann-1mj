@@ -1,17 +1,15 @@
-## 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single+Ink&weight=300&size=19&duration=2000&pause=400&color=F70000&width=435&separator=%3C&lines=HI+I'M+ANN+%3A)%3Cwhile+noSuccess%3A%3Ctry+again()%3Cif+dead%3A%3Cbreak;" alt="Typing SVG" /></a>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ann-1mj&show_icons=true&theme=tokyonight)
-<!--
-**Ann-1mj/Ann-1mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single+Ink&weight=300&size=19&duration=2000&pause=400&color=F70000&width=435&separator=%3C&lines=HI+I'M+ANN+%3A)%3Cwhile+noSuccess%3A%3Ctry+again()%3Cif+dead%3A%3Cbreak;" alt="Typing SVG" />
+</a>
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ann-1mj&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-1mj&layout=compact&theme=tokyonight"/>
+</p>>
